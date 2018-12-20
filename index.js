@@ -19,4 +19,3 @@ function sayHiToGrandma(string) {
   }
 }
 
-sayHiToGrandma('HELLO');

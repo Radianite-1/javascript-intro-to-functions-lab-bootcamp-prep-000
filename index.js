@@ -11,4 +11,4 @@ function logShout(string){
 }
 
 
-console.log(function(hello));
+console.log(logShout(hello));

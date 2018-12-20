@@ -11,4 +11,4 @@ function logShout(string){
 }
 
 
-logShout('HELLO');
+logShout('hello');

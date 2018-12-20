@@ -11,7 +11,7 @@ function logShout(string){
 }
 
 
-logShout('Hello');
+
 
 
 function sayHiToGrandma(string) {

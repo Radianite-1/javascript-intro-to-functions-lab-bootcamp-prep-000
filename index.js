@@ -12,5 +12,9 @@ function logShout(string){
 
 
 function sayHiToGrandma(string) {
-  if (s)
+  if (string === string.toUpperCase)
+  return "YES INDEED!"
+  else {
+    return "I can't hear you!"
+  }
 }
